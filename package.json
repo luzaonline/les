@@ -24,7 +24,10 @@
     "publish": [
       {
         "provider": "generic",
-        "url": "http://192.168.1.28:3000/administrator/ElocquenceAlternative.git"
+        "url": "https://github.com/luzaonline/les/archive/master.zip"
+      },
+      {
+        "provider": "github"
       }
     ],
     "win": {
