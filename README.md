@@ -1,2 +1,2 @@
-# les
-Eloquence Substitute
+# ElocquenceAlternative ver. 1.0
+
